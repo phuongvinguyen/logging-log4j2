@@ -85,7 +85,7 @@
     <flapdoodle-embed.version>4.13.1</flapdoodle-embed.version>
     <flapdoodle-reverse.version>1.8.0</flapdoodle-reverse.version>
     <groovy.version>3.0.22</groovy.version>
-    <guava.version>33.3.0-jre</guava.version>
+    <guava.version>33.3.1-jre</guava.version>
     <h2.version>2.2.224</h2.version>
     <hamcrest.version>3.0</hamcrest.version>
     <HdrHistogram.version>2.2.2</HdrHistogram.version>
