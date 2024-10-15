@@ -53,7 +53,7 @@
     <asciidoctor-maven-plugin.version>2.2.4</asciidoctor-maven-plugin.version>
     <docker-maven-plugin.version>0.45.0</docker-maven-plugin.version>
     <exam-maven-plugin.version>4.13.5</exam-maven-plugin.version>
-    <gmavenplus-plugin.version>3.0.2</gmavenplus-plugin.version>
+    <gmavenplus-plugin.version>4.0.1</gmavenplus-plugin.version>
     <maven-taglib-plugin.version>2.4</maven-taglib-plugin.version>
     <!-- `surefire.version` property used in `apache.org:apache`: -->
     <surefire.version>3.5.0</surefire.version>
