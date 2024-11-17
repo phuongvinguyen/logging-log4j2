@@ -85,7 +85,7 @@ updates:
       - "/log4j-web"
     open-pull-requests-limit: 10
     schedule:
-      interval: "weekly"
+      interval: "daily"
     target-branch: "2.x"
     registries:
       - maven-central
