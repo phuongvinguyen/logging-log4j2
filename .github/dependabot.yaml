@@ -166,7 +166,7 @@ updates:
       - "/log4j-slf4j-impl"
     open-pull-requests-limit: 10
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "2.x"
     registries:
       - maven-central
@@ -181,20 +181,20 @@ updates:
   - package-ecosystem: github-actions
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "2.x"
 
   - package-ecosystem: npm
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "2.x"
 
   - package-ecosystem: maven
     directory: "/"
     open-pull-requests-limit: 10
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "main"
     registries:
       - maven-central
@@ -225,7 +225,7 @@ updates:
       - "/log4j-slf4j-impl"
     open-pull-requests-limit: 10
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "main"
     registries:
       - maven-central
@@ -237,11 +237,11 @@ updates:
   - package-ecosystem: github-actions
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "main"
 
   - package-ecosystem: npm
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "main"
